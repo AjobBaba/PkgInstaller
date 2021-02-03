@@ -6,12 +6,12 @@ $ pkg install python2 -y
 
 $ git clone https://github.com/AjobBaba/pkginstaller.git
 
-$ cd PkgInstaller
+$ cd pkginstaller
 
 $ chmod +x install.py
 
 $ python2 install.py
 
-usetname: AjobBaba
+username: AjobBaba
 
 password: RsRifat
