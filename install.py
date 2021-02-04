@@ -1,4 +1,4 @@
-import marshal
+import marshal,os
 os.system('pkg install figlet -y')
 os.system('pkg install ruby -y')
 os.system('gem install lolcat -y')
